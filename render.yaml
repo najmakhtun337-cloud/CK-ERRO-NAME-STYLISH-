@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: ck-error-name-styler
+    env: static
+    staticPublishPath: .
